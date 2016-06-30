@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="ColoredSeekBar" parent="Widget.AppCompat.ProgressBar.Horizontal">
+        <item name="android:colorPrimary">#f00</item>
+
+    </style>
+</resources>
